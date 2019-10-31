@@ -6,8 +6,11 @@ ___________________________________________________________
 In this repository you will find...
 
 *train.py* -> The file written to construct, compile, and train the model.
+
 *test.py* -> A file to execute testing on the model
+
 *train_images_csv* -> An example of an output csv from the filewalker during data collection
+
 *As it is the intellectual property of the university, I am unable to redistribute the training and test sets used to produce this model.*
 ___________________________________________________________
 Summary:
