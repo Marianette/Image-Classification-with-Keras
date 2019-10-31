@@ -6,7 +6,7 @@ ___________________________________________________________
 In this repository you will find...
 
   - **train.py** -> The file written to construct, compile, and train the model
-  - **test.py** -> A file to execute testing on the model
+  - **test.py** -> The file written to test the model
   - **train_images_csv** -> An example of an output csv from the filewalker during data collection
   - **Final Project Report.pdf** -> A full analysis of the model, its implementation, and core priniples of CNNs
   - **accuracy.png** -> Evidence of 73.3% accuracy on execution
