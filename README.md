@@ -5,24 +5,26 @@ Maria DaRocha, Oct. 2019
 ___________________________________________________________
 In this repository you will find...
 
-*train.py* -> The file written to construct, compile, and train the model.
+  - **train.py** -> The file written to construct, compile, and train the model
+  - **test.py** -> A file to execute testing on the model
+  - **train_images_csv** -> An example of an output csv from the filewalker during data collection
+  - **Final Project Report.pdf** -> A full analysis of the model, its implementation, and core priniples of CNNs
+  - **accuracy.png** -> Evidence of 73.3% accuracy on execution
 
-*test.py* -> A file to execute testing on the model
+**As it is the intellectual property of the university, I am unable to redistribute the training and test sets used to produce this model.**
 
-*train_images_csv* -> An example of an output csv from the filewalker during data collection
-
-*As it is the intellectual property of the university, I am unable to redistribute the training and test sets used to produce this model.*
 ___________________________________________________________
-Summary:
+**Summary:**
 
   The penultimate goal of a Convolutional Neural Network (CNN) is for its layers to connect in such a way that the model learns features through convolution, introduces non-linearity through activation functions, reduces dimensionality (while preserving partial invariance) through pooling, produces high-level features, and then uses dense layers to return an image’s likelihood (probability) of belonging to a particular class. It is a form of deep learning in machines.
 ___________________________________________________________
-Outcome:
+**Outcome:**
 
 A sequential CNN that distinguishes test data between digital images of: cherrys, strawberrys, and tomatoes with a 73.3% accuracy.
 - Language: Python
 - Library Dependencies: Keras, Tensorflow, Sklearn, Scikit-image (skimage), Numpy, Pandas, Random, OS, CSV, Time, (Tensorboard: Recommended)
 ___________________________________________________________
+
 *If you're reading this, please be aware that credit for the creation of the original assignment, a portion of the base code, and the training/testing datasets is given to Victoria University of Wellington (VUW).*
   
 The goal of this assignment was to:
